@@ -1,1 +1,1 @@
-# DavidHonasan_ITP2017_ExerciseWeek2
+# David_ITP2017_ExerciseWeek2
